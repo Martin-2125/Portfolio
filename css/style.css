@@ -21,7 +21,6 @@ body.light {
 header {
   background: rgba(10, 10, 20, 0.8);
   backdrop-filter: blur(10px);
-  position: fixed;
   width: 100%;
   top: 0;
   z-index: 1000;
@@ -184,3 +183,4 @@ li { background: rgba(30,30,50,0.8); margin: 0.5rem 0; padding: 1rem; border-rad
 li:hover { transform: translateX(5px); }
 .completed { text-decoration: line-through; opacity: 0.6; }
 .delete-btn { background: #ff3366; color: white; border: none; padding: 0.5rem; border-radius: 50%; cursor: pointer; }
+
