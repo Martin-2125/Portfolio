@@ -1,6 +1,5 @@
-requests
 beautifulsoup4
 pandas
-python-telegram-bot==20.7 
+python-telegram-bot[job-queue]==21.4
 python-dotenv
 requests

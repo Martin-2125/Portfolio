@@ -32,15 +32,17 @@ header {
 }
 
 nav h1 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 600;
-  color: #00ff88; 
+  color: #00ff88;
+  text-align: center; 
 }
 
 nav ul {
   list-style: none;
   display: flex;
   gap: 2rem;
+  text-align: center;
 }
 
 nav a {
